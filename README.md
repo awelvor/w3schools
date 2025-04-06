@@ -12,3 +12,5 @@
 [search console](https://awelvor.github.io/w3schools/how%20to/search%20console/)
 
 [zebra striped table](https://awelvor.github.io/w3schools/how%20to/zebra%20striped%20table/)
+
+[localhost](http://localhost/)
