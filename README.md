@@ -8,3 +8,5 @@
 [accordion](https://awelvor.github.io/w3schools/how%20to/accordion/)
 
 [login form](https://awelvor.github.io/w3schools/how%20to/login%20form/)
+
+[search console](https://awelvor.github.io/w3schools/how%20to/search²20console/)
