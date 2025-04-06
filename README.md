@@ -13,6 +13,8 @@
 
 [zebra striped table](https://awelvor.github.io/w3schools/how%20to/zebra%20striped%20table/)
 
+[table messes](https://awelvor.github.io/w3schools/how%20to/table%20messes)
+
 [create DB](https://awelvor.github.io/w3schools/how%20to/sql/create%20DB/create%20DB.sql)
 
 [localhost](http://localhost/)
