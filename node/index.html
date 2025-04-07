@@ -1,5 +1,10 @@
 var http = require('http');
 
+console.log('This example is different!');
+console.log('The result is displayed in the Command Line Interface');
+
+              
+
 http.createServer(function (req, res) {
     res.writeHead(200, {'Content-Type': 'text/plain'});
     res.end('Hello World!');
