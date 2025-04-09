@@ -23,6 +23,8 @@
 
 [bootstrap first](https://awelvor.github.io/w3schools/bootstrap/first)
 
+[sticky navbar](https://awelvor.github.io/w3schools/how%20to/sql/sticky%20navbar)
+
 [Bibliotheque ENORIA](https://web.enoria.app/tools/documentspdf/?p=1120678&doc=24229&preview=html)
 
 [localhost](http://localhost/)
