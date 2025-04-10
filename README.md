@@ -25,10 +25,10 @@
 
 [sticky navbar](https://awelvor.github.io/w3schools/how%20to/sticky%20navbar)
 
-[Bibliotheque ENORIA](https://web.enoria.app/tools/documentspdf/?p=1120678&doc=24229&preview=html)
+
 
 [localhost](http://localhost/)
-
+|[24229](https://web.enoria.app/tools/documentspdf/?p=1120678&doc=24229&preview=html)|Bibliothèque ENORIA|
 |[24246](https://web.enoria.app/tools/documentspdf/?p=1120678&doc=24246&preview=html)|Table management|
 
 [install](http://localhost/w3schools/php/install.php)
