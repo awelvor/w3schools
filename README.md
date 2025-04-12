@@ -31,7 +31,7 @@
 
 | doc  |   objet |
 |--- |---|
-|[23384](https://web.enoria.app/tools/documentspdf/?p=1120678&doc=23384&&preview=pdf&format=a4&optionsName=debut,fin&optionsValue=-1,-1|Funérailles|
+|[23384](https://web.enoria.app/tools/documentspdf/?p=1120678&doc=23384&&preview=pdf&format=a4&optionsName=debut,fin&optionsValue=-1,-1)|Funérailles|
 |[24229](https://web.enoria.app/tools/documentspdf/?p=1120678&doc=24229&preview=html)|Bibliothèque ENORIA|
 |[24246](https://web.enoria.app/tools/documentspdf/?p=1120678&doc=24246&preview=html)|Table management|
 |[24248](https://web.enoria.app/tools/documentspdf/?p=1120678&doc=24248&preview=html)|Messes|
