@@ -36,7 +36,7 @@
 |[24246](https://web.enoria.app/tools/documentspdf/?p=1120678&doc=24246&preview=html)|Table management|
 |[24248](https://web.enoria.app/tools/documentspdf/?p=1120678&doc=24248&preview=html)|Messes|
 |[24266](https://web.enoria.app/tools/documentspdf/?g=29780&doc=24266&preview=html)|Inscriptions|
-|[24282](https://web.enoria.app/tools/documentspdf/?p=1120768, 902616,851559&doc=24282&preview=html)|Inscriptions|
+|[24282](https://web.enoria.app/tools/documentspdf/?p=1120768,902616,851559&doc=24282&preview=html)|Inscriptions|
 
 
 [install](http://localhost/w3schools/php/install.php)
