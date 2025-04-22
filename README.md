@@ -39,6 +39,7 @@
 |[24282](https://web.enoria.app/tools/documentspdf/?p=1120678,902616,851559&doc=24282&preview=html)|Inscriptions|
 |[24288](https://web.enoria.app/tools/documentspdf/?p=1120678,902616,851559,1084919,902001,852669,899823&doc=24288&preview=html)|Personnes|
 |[24325](https://web.enoria.app/tools/documentspdf/?p=1120678,902616,851559&doc=24325&preview=html)|Calendrier liturgique|
+|[24329](https://web.enoria.app/tools/documentspdf/?p=1120678,902616,851559&doc=24329&preview=html)|Equipes liturgiques, musiciens, animateurs|
 
 
 [install](http://localhost/w3schools/php/install.php)
