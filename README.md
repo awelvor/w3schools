@@ -40,6 +40,7 @@
 |[24288](https://web.enoria.app/tools/documentspdf/?p=1120678,902616,851559,1084919,902001,852669,899823&doc=24288&preview=html)|Personnes|
 |[24325](https://web.enoria.app/tools/documentspdf/?p=1120678,902616,851559&doc=24325&preview=html)|Calendrier liturgique|
 |[24329](https://web.enoria.app/tools/documentspdf/?p=1120678,902616,851559&doc=24329&preview=html)|Equipes liturgiques, musiciens, animateurs|
+|[24283](https://web.enoria.app/tools/documentspdf/?i=228930,228931,230048,228934,230089,231443,228908,230090,228916,228917,228907,228906,228902,228972,228974,228918,230053,230050&doc=24283&preview=html)|Intentions de messe|
 
 
 [install](http://localhost/w3schools/php/install.php)
