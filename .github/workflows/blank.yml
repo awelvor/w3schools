@@ -36,3 +36,4 @@ jobs:
           echo test, and deploy your project.
       - name: bash tutorial
         run: bash --version
+      - run: mysql -version
